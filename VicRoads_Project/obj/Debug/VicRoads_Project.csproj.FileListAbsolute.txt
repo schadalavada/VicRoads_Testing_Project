@@ -1,0 +1,2 @@
+C:\Users\dines\source\repos\VicRoads_Project\VicRoads_Project\obj\Debug\VicRoads_Project.csproj.AssemblyReference.cache
+C:\Users\dines\source\repos\VicRoads_Project\VicRoads_Project\obj\Debug\VicRoads_Project.csproj.CoreCompileInputs.cache
